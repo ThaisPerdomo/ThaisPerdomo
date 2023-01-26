@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 You can see my learning trips around here!</p>
+<p align="left">💡 You can see my learning trips around here</p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <h2 align="left">my skill set</h2>
-
+<p align="left">under construction</p>
 ###
 
 <div align="left">
