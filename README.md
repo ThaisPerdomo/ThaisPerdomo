@@ -45,10 +45,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <h2 align="left">my github stats</h2>
 
 
