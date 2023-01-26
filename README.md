@@ -45,10 +45,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <br clear="both">
 
 ###
