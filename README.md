@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 I live in Niterói (RJ) but I am open to any possibility.</p>
+<p align="left">📍 I live in Niterói (RJ) but I'm open to any possibility.</p>
 
 ###
 
