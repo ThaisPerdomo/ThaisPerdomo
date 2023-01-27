@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">📍 I live in Niterói (RJ) but I'm open to any possibility.</p>
+<p align="left">📍 Based in Niterói (RJ) but open to any possibility.</p>
 
 ###
 
-<p align="left">🌱 I'm growing up as a developer</p>
+<p align="left">🌱 Growing up as a developer</p>
 
 ###
 
