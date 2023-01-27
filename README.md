@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💼 Tell me how I can help you and I'll make it happen!</p>
+<p align="left">💼 Tell me how can I help you and I'll make it happen!</p>
 
 ###
 
