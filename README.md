@@ -1,4 +1,4 @@
-<h2 align="left">get to know me</h2>
+# 🚴🏼‍♀️ Get to know me
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-#  🧙‍♀️  connect w me!
+#  🧙‍♀️  Connect w me!
 
 ###
 
