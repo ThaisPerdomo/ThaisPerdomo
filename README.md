@@ -44,7 +44,7 @@
 
 ###
 
-# 🌞 my github stats
+# 🌞 My github stats
 
 
 <div align="center">
