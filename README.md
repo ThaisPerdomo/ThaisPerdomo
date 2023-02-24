@@ -32,10 +32,11 @@
 
 
 
-🧙‍♀️  Connect w me!
-###
-<div align="center">
 
+
+<div align="center">
+🧙‍♀️  Connect w me!
+  
 </div>
 
 
