@@ -35,8 +35,7 @@
 
 
 <div align="center">
-🧙‍♀️  Connect w me!
-  
+Find me on LinkedIn: ThaisPerdomo  
 </div>
 
 
