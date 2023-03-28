@@ -17,10 +17,13 @@
 
 ###
 
+#
 
-  Find me on LinkedIn 
+<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thaisperdomo/) 
+
+</div>
 
 #
 
@@ -30,7 +33,6 @@
 #
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=ThaisPerdomo" height="150" alt="languages graph"  />
 
   ![](https://github-readme-stats.vercel.app/api?username=ThaisPerdomo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=ThaisPerdomo&theme=dark&hide_border=false)<br/>
