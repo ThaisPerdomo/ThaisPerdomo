@@ -2,7 +2,7 @@
 ###
 
 <h1 align="center">Hey, over there! 👋 I'm Thais</h1>
-<h3 align="center">A frontend developer Based in Niterói/RJ (Brazil) -> but open to any possibility!</h3>
+<h3 align="center">A frontend developer Based in Niterói/RJ (Brazil). But open to any possibility!</h3>
 
 - 🌱 I’m currently learning **python for data analysis**
 
@@ -10,7 +10,7 @@
 
 - 💡 You can see my learning trips around here
 
-- 🌱 Growing up as a developer. I'm a typical fast learner 8-) 
+- 🌱 Growing up as a developer. I'm a typical fast learner o/ 
 
 - 💼 Tell me how can I help you and I'll make it happen!
 
