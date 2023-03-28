@@ -1,8 +1,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Thais</h1>
-<h3 align="center">A frontend developer from Niterói, Rio de Janeiro (Brazil)</h3>
+<h1 align="center">Hey, over there! 👋 I'm Thais</h1>
+<h3 align="center">A frontend developer Based in Niterói/RJ (Brazil) but open to any possibility.</h3>
 
 - 🌱 I’m currently learning **python for data analysis**
 
@@ -10,26 +10,9 @@
 
 - 💡 You can see my learning trips around here
 
+- 🌱 Growing up as a developer. I'm a typical fast learner 8-) 
+
 - 💼 Tell me how can I help you and I'll make it happen!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-<p align="left">📍 Based in Niterói (RJ) but open to any possibility.</p>
-
-###
-
-<p align="left">🌱 Growing up as a developer</p>
-
-###
-
-<p align="left">💡 You can see my learning trips around here</p>
-
-###
-
-<p align="left">💼 Tell me how can I help you and I'll make it happen!</p>
 
 ###
 ## 🌐 Socials:
