@@ -10,8 +10,6 @@
 
 - 💡 You can see my learning trips around here
 
-- 🌱 Growing up as a developer. 
-
 - 😎 I'm a typical fast learner! Tell me how can I help you and I'll make it happen!
 
 ###
