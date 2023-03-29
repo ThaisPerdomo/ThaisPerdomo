@@ -4,7 +4,7 @@
 <h1 align="center">Hey, over there! 👋 I'm Thais</h1>
 <h3 align="center">A frontend developer Based in Niterói/RJ (Brazil). But open to any possibility!</h3>
 
-- 🌱 I’m currently learning **python for data analysis**
+- 🌱 I’m currently learning **python for data analysis** and **AWS**
 
 - 📫 How to reach me: **thaisperdomo@gmail.com**
 
