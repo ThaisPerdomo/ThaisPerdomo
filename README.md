@@ -2,15 +2,17 @@
 ###
 
 <h1 align="center">Hey, over there! 👋 I'm Thais</h1>
-<h3 align="center">A frontend developer based in Niterói/RJ (Brazil) — but open to any possibility!</h3>
+<h3 align="center">A Data Science enthusiast and Python fangirl</h3>
 
-- 🌱 I’m currently learning **C/C++**, **python for data analysis** and **AWS**
-
+- 🌱 Currently diving deep into **Machine Learning**
+ 
 - 📫 How to reach me: **thaisperdomo@gmail.com**
 
-- 💡 You can see my learning trips around here
+- 💼 Interning at Rede Globo, applying data skills in a real-world setting
 
-- 😎 I'm a typical fast learner! Tell me how can I help you and I'll make it happen!
+- 💡 Check out my data adventures right here!
+
+- 😎 Always eager to learn and collaborate! Let's tackle some data challenges together!
 
 ###
 ## 🕺 Socials:
