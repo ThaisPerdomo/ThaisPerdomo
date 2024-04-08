@@ -48,10 +48,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
-
-###
-
-## 📈 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisperdomo&show_icons=true&locale=en&layout=compact" alt="thaisperdomo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaisperdomo&" alt="thaisperdomo" /></p>
