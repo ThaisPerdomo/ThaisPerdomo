@@ -4,15 +4,15 @@
 <h2 align="left">Hey, over there! 👋 I'm Thais</h2>
 <h3 align="left">A Data Science enthusiast and Python fangirl</h3>
 
+- 💼 Interning at Rede Globo, applying bigdata skills in a real-world setting
+ 
 - 🌱 Currently diving deep into **Machine Learning**
  
 - 📫 How to reach me: **thaisperdomo@gmail.com**
-
-- 💼 Interning at Rede Globo, applying data skills in a real-world setting
-
-- 💡 Check out my data adventures right here!
-
-- 😎 Always eager to learn and collaborate! Let's tackle some data challenges together!
+ 
+- 💡 Check out my data adventures right here! I promise I'll keep my GitHub more active... :P 
+ 
+- 😎 Always eager to learn and collaborate! Let's tackle some data challenges together 
 
 ###
 ## 🕺 Socials:
