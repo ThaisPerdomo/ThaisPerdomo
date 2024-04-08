@@ -1,8 +1,8 @@
 
 ###
 
-<h1 align="center">Hey, over there! 👋 I'm Thais</h1>
-<h3 align="center">A Data Science enthusiast and Python fangirl</h3>
+<h2 align="left">Hey, over there! 👋 I'm Thais</h2>
+<h3 align="left">A Data Science enthusiast and Python fangirl</h3>
 
 - 🌱 Currently diving deep into **Machine Learning**
  
