@@ -5,3 +5,7 @@ I’m a Data Scientist at Globo, working on Cartola — Brazil’s largest fanta
 My work is driven by the goal of giving data a voice: connecting numbers to stories that help products evolve and teams better understand user behavior. I have experience in machine learning, predictive modeling, and exploratory analysis, and I’m constantly improving my technical and analytical abilities.
 
 I believe that good data tells good stories — and good stories lead to confident decisions. If you'd like to talk about data or build something together, feel free to connect on LinkedIn.
+
+----
+
+🚀 **Currently working on [tarot-for-machines](https://github.com/ThaisPerdomo/tarot-for-machines)** — a space for structured ML learning and experimentation.
